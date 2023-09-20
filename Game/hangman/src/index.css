@@ -1,0 +1,17 @@
+.body {
+  text-align: center;
+}
+
+#help {
+  border-top: 2px;
+  border-bottom: 2px;
+  border-left: 2px;
+  border-right: 2px;
+  border-color: blueviolet;
+  font-size: 18px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
